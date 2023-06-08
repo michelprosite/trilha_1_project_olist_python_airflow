@@ -30,7 +30,7 @@ ETL significa Extração, Transformação e Carga. É um processo utilizado para
 
 Após o processamento e transformação dos dados, eles serão armazenados na camada de dados refinados (refined data layer), prontos para serem utilizados na análise e na construção de visualizações.
 
-    • Sistemas de consulta e análise: Nesta etapa, os dados refinados serão disponibilizados para consulta e análise. Serão utilizadas ferramentas e técnicas de análise de dados, como SQL, OLAP (Processamento Analítico Online) e data visualization (visualização de dados). Essas ferramentas permitirão explorar os dados, realizar consultas complexas, criar relatórios e visualizações interativas para comunicar as descobertas de forma clara e eficaz.
+Sistemas de consulta e análise: Nesta etapa, os dados refinados serão disponibilizados para consulta e análise. Serão utilizadas ferramentas e técnicas de análise de dados, como SQL, OLAP (Processamento Analítico Online) e data visualization (visualização de dados). Essas ferramentas permitirão explorar os dados, realizar consultas complexas, criar relatórios e visualizações interativas para comunicar as descobertas de forma clara e eficaz.
 
 A arquitetura proposta visa atender às necessidades de um projeto de construção de um Data Warehouse (DW) para a empresa Olist, permitindo a integração, processamento e análise dos dados do comércio eletrônico no Brasil. A utilização de pipelines de ingestão de dados, armazenamento em camadas e sistemas de consulta e análise proporciona uma abordagem escalável, eficiente e flexível para lidar com volumes de dados crescentes e complexidade das análises.
 
